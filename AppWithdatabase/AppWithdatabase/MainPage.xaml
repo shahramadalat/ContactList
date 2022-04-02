@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppWithdatabase.MainPage">
+
+    <StackLayout Margin="20,35,20,20">
+        <Entry x:Name="nameEntry"
+               Placeholder="Enter name" />
+        <Entry x:Name="ageEntry"
+               Placeholder="Enter age" />
+        <Entry x:Name="telEntry"
+               Placeholder="Enter Telephone" />
+        <Entry x:Name="detailEntry"
+               Placeholder="Enter Detail" />
+        <Button Text="Add to Database"
+                Clicked="OnButtonClicked" />
+        <CollectionView x:Name="collectionView"
+                  BindingContext="{Binding Person}"
+                        SelectionMode="Single"
+                        SelectionChanged="collectionView_SelectionChanged_1"
+                  >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Name}"
+                               FontSize="Medium" />
+                        <Label Text="{Binding Age}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                        <Label Text="{Binding Telephone}"
+                               FontSize="Medium" />
+                        <Label Text="{Binding Detail}"
+                               FontSize="Medium" />
+                        <Label>-------------------</Label>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

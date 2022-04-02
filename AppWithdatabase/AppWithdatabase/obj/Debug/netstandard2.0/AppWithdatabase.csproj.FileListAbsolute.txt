@@ -1,0 +1,15 @@
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.csproj.AssemblyReference.cache
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.AssemblyInfoInputs.cache
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.AssemblyInfo.cs
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.csproj.CoreCompileInputs.cache
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.dll
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\refint\AppWithdatabase.dll
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\AppWithdatabase.pdb
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\bin\Debug\netstandard2.0\AppWithdatabase.deps.json
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\bin\Debug\netstandard2.0\AppWithdatabase.dll
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\bin\Debug\netstandard2.0\AppWithdatabase.pdb
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\shahr\source\repos\AppWithdatabase\AppWithdatabase\AppWithdatabase\obj\Debug\netstandard2.0\ref\AppWithdatabase.dll
